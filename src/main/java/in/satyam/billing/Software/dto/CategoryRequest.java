@@ -1,4 +1,4 @@
-package in.satyam.billing.Software.io;
+package in.satyam.billing.Software.dto;
 
 import lombok.Builder;
 import lombok.Data;
